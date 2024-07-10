@@ -1,2 +1,1 @@
 # Plan:
-![Uploading puioui.JPG…]()
