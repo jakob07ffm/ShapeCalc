@@ -4,3 +4,4 @@ This is a simple Pygame application that allows you to calculate the area of a r
 
 ![](rect_screenshot.JPG)
 ![](menu_screenshot.JPG)
+![](puioui.JPG) 
